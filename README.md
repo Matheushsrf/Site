@@ -1,2 +1,2 @@
-# Praticando FlexBox
- Site feito usando flexbox
+# Site
+ Praticando com HTML e CSS
